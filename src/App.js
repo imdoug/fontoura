@@ -32,7 +32,7 @@ function App() {
           >
             Estaremos aqui em breve
           </p>
-          <a className="btn">
+          <a className="btn" href="https://wa.me/13478704216">
             <BsWhatsapp /> WhatsApp
           </a>
           <p>
@@ -54,7 +54,7 @@ function App() {
       >
         <a
           className="insta"
-          href='https"//www.instagram.com/kellyfontouraparalegal'
+          href='https://www.instagram.com/fontouraconsultants'
         >
           <BsInstagram />
         </a>
